@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ssymes-dev
-- 👀 I’m interested in learning to code
-- 🌱 I’m currently pursuing college education
+- 👀 I’m interested in becoming a full stack developer. 
+- 🌱 I’m currently learning HTML, CSS, & JavaScript.
 - 📫 Samantha.symes@outlook.com
 
 <!---
